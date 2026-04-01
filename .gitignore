@@ -1,4 +1,22 @@
 node_modules
 .next
 .env*
+.vercel
+tsconfig.tsbuildinfo
+
+# Build artifacts
 extracted_mcqs.json
+
+# Video/demo assets (too large for git)
+video/
+proposals/
+rewire-demo-final.mp4
+*.mov
+
+# Test files
+test-e2e.ts
+
+# Design process docs (not production)
+ai/
+PITCH.md
+rewire-demo-edited.mp4
