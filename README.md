@@ -2,7 +2,7 @@
 
 **Neuroplasticity-Powered Neurorehabilitation Platform**
 
-**[Live Demo](https://rewire-app.vercel.app)** | **[Demo Video](https://youtu.be/YOUR_VIDEO_ID)**
+**[Live Demo](https://rewire-neuro.vercel.app)** | **[Demo Video](https://youtu.be/YOUR_VIDEO_ID)**
 
 ReWire computationally models neural recovery for stroke, TBI, and neurodegenerative patients. It tracks neurological function through 7 assessment types, adapts rehabilitation exercises using real neuroplasticity algorithms, visualizes brain pathway recovery as an interactive neural constellation, and stores all patient data on decentralized Storacha storage the patient owns.
 

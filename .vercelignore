@@ -1,0 +1,7 @@
+video/
+proposals/
+test-e2e.ts
+ai/
+PITCH.md
+*.mov
+*.mp4
