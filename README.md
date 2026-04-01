@@ -248,6 +248,16 @@ Afrofuturist neurotech aesthetic. Gold (#D4AF37), coral (#FF6B6B), and deep teal
 
 ---
 
+## Built By
+
+**Faruukku** / Full-stack developer and physiotherapist.
+
+I have spent time on both sides of rehabilitation. As a physiotherapist, I have watched patients repeat the same exercises week after week with no visibility into whether their neural pathways are actually recovering. As a developer, I knew the math existed to model it. Hebbian learning, spectral analysis, graph theory. The neuroscience has been published for decades. The problem was that none of it had been put into the hands of the people who need it most: the patients themselves.
+
+ReWire exists because I got tired of telling patients "you're making progress" when neither of us could see it. Now we can. The brain map is not a decoration. It is the computation. And the data belongs to the patient, not the clinic.
+
+---
+
 ## License
 
 MIT
